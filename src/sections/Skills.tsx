@@ -85,7 +85,6 @@ const Skills: React.FC = () => {
                 <SkillBar
                   name="Proficiency"
                   proficiency={skill.proficiency}
-                  years={skill.years}
                 />
               </Card>
             </motion.div>
