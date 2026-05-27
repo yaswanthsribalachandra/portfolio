@@ -75,13 +75,13 @@ const CodingProfiles: React.FC = () => {
   return (
     <section id="coding-profiles" className="py-20 bg-white dark:bg-gray-900">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <SectionTitle
+      <SectionTitle
           title="Coding Profiles"
           subtitle="My journey in competitive programming and open source"
         />
 
         {/* Platform Cards */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
+       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
           {platformData.map((platform, index) => (
             <motion.div
               key={platform.name}
