@@ -1,102 +1,52 @@
 [
   {
     "id": 1,
-    "title": "Microsoft Innovation Award 2024",
-    "category": "Award",
-    "date": "2024-03",
-    "organization": "Microsoft",
-    "description": "Recognized for developing innovative AI-powered code review tool that improved team productivity by 40%",
-    "icon": "FaTrophy",
-    "color": "text-yellow-500"
-  },
-  {
-    "id": 2,
-    "title": "Winner - Global AI Hackathon",
-    "category": "Hackathon",
-    "date": "2023-11",
-    "organization": "TechConf 2023",
-    "description": "Led team to first place by developing real-time emotion detection system for customer support using computer vision and NLP",
-    "icon": "FaMedal",
-    "color": "text-blue-500"
-  },
-  {
-    "id": 3,
-    "title": "Open Source Contributor - React",
-    "category": "Open Source",
-    "date": "2023-08",
-    "organization": "Meta",
-    "description": "Contributed multiple PRs to React core library, improving performance and fixing critical bugs",
-    "icon": "FaCode",
-    "color": "text-purple-500"
-  },
-  {
-    "id": 4,
-    "title": "AWS Community Builder",
-    "category": "Leadership",
-    "date": "2023-06",
-    "organization": "Amazon Web Services",
-    "description": "Selected as AWS Community Builder for contributions to cloud computing education and community support",
-    "icon": "FaAward",
-    "color": "text-orange-500"
-  },
-  {
-    "id": 5,
-    "title": "Top Contributor - Stack Overflow",
-    "category": "Community",
-    "date": "2023-05",
-    "organization": "Stack Overflow",
-    "description": "Reached 50,000+ reputation points helping developers solve complex technical problems",
-    "icon": "FaStackOverflow",
+    "title": "Digital Skills Readiness - Java Full Stack",
+    "category": "Certification",
+    "date": "2025-08",
+    "organization": "Wipro TalentNext",
+    "description": "Successfully completed the Java Full Stack training program focused on end-to-end web application development, modern frameworks, backend and frontend integration, and industry best practices.",
+    "icon": "FaJava",
     "color": "text-orange-600"
   },
   {
-    "id": 6,
-    "title": "Google Cloud Champion Innovator",
-    "category": "Award",
-    "date": "2023-03",
-    "organization": "Google Cloud",
-    "description": "Recognized for innovative solutions using GCP technologies and community leadership",
-    "icon": "FaGoogle",
-    "color": "text-red-500"
+    "id": 2,
+    "title": "100 Days of Code Challenge",
+    "category": "Achievement",
+    "date": "2025-07",
+    "organization": "Self Learning",
+    "description": "Completed the 100 Days of Code challenge, consistently solving coding problems and improving problem-solving, logical thinking, and programming confidence.",
+    "icon": "FaCode",
+    "color": "text-green-600"
   },
   {
-    "id": 7,
-    "title": "Runner-up - NASA Space Apps Challenge",
+    "id": 3,
+    "title": "AIdeaThon 2025 Participant",
     "category": "Hackathon",
-    "date": "2022-10",
-    "organization": "NASA",
-    "description": "Developed satellite data visualization platform for climate change monitoring",
-    "icon": "FaRocket",
-    "color": "text-indigo-500"
+    "date": "2025-03",
+    "organization": "AIdeaThon 2025",
+    "description": "Worked on an AI-Driven Predictive Health Monitoring System with team Bio, gaining valuable experience in AI development, teamwork, resilience, and innovation.",
+    "icon": "FaRobot",
+    "color": "text-purple-600"
   },
   {
-    "id": 8,
-    "title": "Tech Mentor - Code.org",
+    "id": 4,
+    "title": "Smart India Hackathon 2024 Finalist",
+    "category": "Hackathon",
+    "date": "2024-09",
+    "organization": "Smart India Hackathon",
+    "description": "Selected for SIH 2024 to develop a web and mobile-based educational game on groundwater conservation and management, combining technology with sustainability.",
+    "icon": "FaLightbulb",
+    "color": "text-yellow-500"
+  },
+  {
+    "id": 5,
+    "title": "Entrepreneurship & Innovation Event Participant",
     "category": "Leadership",
-    "date": "2022-06",
-    "organization": "Code.org",
-    "description": "Mentored 50+ students in learning programming fundamentals and web development",
-    "icon": "FaChalkboardTeacher",
-    "color": "text-green-500"
-  },
-  {
-    "id": 9,
-    "title": "Published Research Paper",
-    "category": "Research",
-    "date": "2022-03",
-    "organization": "IEEE",
-    "description": "Published paper on 'Optimizing ML Model Deployment in Edge Computing' in IEEE conference",
-    "icon": "FaBook",
-    "color": "text-teal-500"
-  },
-  {
-    "id": 10,
-    "title": "Kubernetes Contributor",
-    "category": "Open Source",
-    "date": "2021-12",
-    "organization": "CNCF",
-    "description": "Active contributor to Kubernetes documentation and bug fixes",
-    "icon": "FaDocker",
-    "color": "text-blue-600"
+    "date": "2025-02",
+    "organization": "MVGR College of Engineering",
+    "description": "Participated in an innovation and entrepreneurship event, interacting with startup founders and gaining insights into technology, leadership, and entrepreneurship.",
+    "icon": "FaUsers",
+    "color": "text-pink-600"
   }
 ]

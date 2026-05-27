@@ -28,7 +28,6 @@ function App() {
           <Skills />
           <Certifications />
           <Projects />
-          <Experience />
           <Education />
           <CodingProfiles />
           <Achievements />

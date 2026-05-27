@@ -6,38 +6,32 @@
       "years": 4,
       "icon": "FaReact"
     },
-    {
-      "name": "Next.js",
-      "proficiency": 90,
-      "years": 3,
-      "icon": "TbBrandNextjs"
+      {
+      "name": "JavaScript",
+      "proficiency": 95,
+      "years": 4,
+      "icon": "SiJavascript"
+    },
+     {
+      "name": "HTML5",
+      "proficiency": 98,
+      "years": 4,
+      "icon": "FaHtml5"
     },
     {
-      "name": "TypeScript",
-      "proficiency": 92,
+      "name": "CSS3",
+      "proficiency": 96,
       "years": 4,
-      "icon": "SiTypescript"
+      "icon": "FaCss3Alt"
     },
     {
       "name": "Tailwind CSS",
       "proficiency": 95,
       "years": 3,
       "icon": "SiTailwindcss"
-    },
-    {
-      "name": "Vue.js",
-      "proficiency": 80,
-      "years": 2,
-      "icon": "FaVuejs"
     }
   ],
   "backend": [
-    {
-      "name": "Node.js",
-      "proficiency": 90,
-      "years": 4,
-      "icon": "FaNode"
-    },
     {
       "name": "Python",
       "proficiency": 95,
@@ -51,17 +45,11 @@
       "icon": "SiFastapi"
     },
     {
-      "name": "Express.js",
-      "proficiency": 90,
-      "years": 4,
-      "icon": "SiExpress"
-    },
-    {
-      "name": "GraphQL",
-      "proficiency": 85,
-      "years": 2,
-      "icon": "SiGraphql"
-    }
+    "name": "JWT Authentication",
+    "proficiency": 85,
+    "years": 3,
+    "icon": "SiJsonwebtokens"
+  }
   ],
   "cloud": [
     {
@@ -90,37 +78,79 @@
     }
   ],
   "aiml": [
-    {
-      "name": "TensorFlow",
-      "proficiency": 85,
-      "years": 3,
-      "icon": "SiTensorflow"
-    },
-    {
-      "name": "PyTorch",
-      "proficiency": 88,
-      "years": 3,
-      "icon": "SiPytorch"
-    },
-    {
-      "name": "Scikit-learn",
-      "proficiency": 90,
-      "years": 4,
-      "icon": "SiScikitlearn"
-    },
-    {
-      "name": "OpenAI API",
-      "proficiency": 92,
-      "years": 2,
-      "icon": "SiOpenai"
-    },
-    {
-      "name": "LangChain",
-      "proficiency": 87,
-      "years": 1,
-      "icon": "SiChainlink"
-    }
-  ],
+  {
+    "name": "Machine Learning",
+    "proficiency": 92,
+    "years": 4,
+    "icon": "TbBrain"
+  },
+  {
+    "name": "Deep Learning",
+    "proficiency": 88,
+    "years": 3,
+    "icon": "SiPytorch"
+  },
+  {
+    "name": "Natural Language Processing",
+    "proficiency": 90,
+    "years": 3,
+    "icon": "TbMessage2Code"
+  },
+  {
+    "name": "Large Language Models",
+    "proficiency": 89,
+    "years": 2,
+    "icon": "SiOpenai"
+  },
+  {
+    "name": "RAG Systems",
+    "proficiency": 86,
+    "years": 2,
+    "icon": "TbDatabaseSearch"
+  },
+  {
+    "name": "TensorFlow",
+    "proficiency": 85,
+    "years": 3,
+    "icon": "SiTensorflow"
+  },
+  {
+    "name": "PyTorch",
+    "proficiency": 88,
+    "years": 3,
+    "icon": "SiPytorch"
+  },
+  {
+    "name": "Scikit-learn",
+    "proficiency": 90,
+    "years": 4,
+    "icon": "SiScikitlearn"
+  },
+  {
+    "name": "OpenAI API",
+    "proficiency": 92,
+    "years": 2,
+    "icon": "SiOpenai"
+  },
+  {
+    "name": "LangChain",
+    "proficiency": 87,
+    "years": 1,
+    "icon": "SiChainlink"
+  },
+  {
+    "name": "Hugging Face",
+    "proficiency": 84,
+    "years": 2,
+    "icon": "SiHuggingface"
+  },
+  {
+    "name": "Prompt Engineering",
+    "proficiency": 93,
+    "years": 2,
+    "icon": "TbBulb"
+  }
+],
   "databases": [
     {
       "name": "PostgreSQL",
@@ -133,12 +163,6 @@
       "proficiency": 92,
       "years": 4,
       "icon": "SiMongodb"
-    },
-    {
-      "name": "Redis",
-      "proficiency": 85,
-      "years": 3,
-      "icon": "SiRedis"
     },
     {
       "name": "MySQL",
@@ -165,18 +189,6 @@
       "proficiency": 90,
       "years": 3,
       "icon": "SiGithubactions"
-    },
-    {
-      "name": "Terraform",
-      "proficiency": 82,
-      "years": 2,
-      "icon": "SiTerraform"
-    },
-    {
-      "name": "Jenkins",
-      "proficiency": 80,
-      "years": 2,
-      "icon": "SiJenkins"
     }
   ],
   "tools": [

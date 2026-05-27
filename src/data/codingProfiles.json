@@ -20,34 +20,34 @@
     "streak": 9
   },
   "hackerrank": {
-    "username": "johndoe",
-    "profileUrl": "https://hackerrank.com/johndoe",
+    "username": "dasariyaswanths1",
+    "profileUrl": "https://www.hackerrank.com/profile/dasariyaswanths1",
     "stars": {
-      "problemSolving": 5,
-      "python": 5,
+      "problemSolving": 4,
+      "python": 4,
       "sql": 4,
-      "algorithms": 5
+      "algorithms": 4
     },
-    "badges": ["Gold", "Problem Solving Expert", "30 Days of Code"]
+    "badges": ["Silver", "Problem Solving Expert", "30 Days of Code"]
   },
   "codechef": {
-    "username": "johndoe",
-    "profileUrl": "https://codechef.com/users/johndoe",
-    "rating": 2134,
-    "stars": "5★",
-    "globalRank": 2547,
-    "countryRank": 234
+    "username": "yaswanth40",
+    "profileUrl": "https://www.codechef.com/users/yaswanth40",
+    "rating": 652,
+    "stars": "3★",
+    "globalRank": 17185,
+    "countryRank": 234,
+    "ProblemsSolved": 410
   },
   "geeksforgeeks": {
-    "username": "johndoe",
-    "profileUrl": "https://auth.geeksforgeeks.org/user/johndoe",
-    "codingScore": 2458,
-    "problemsSolved": 456,
-    "monthlyRank": 125
+    "username": "dasariyaswanthsribalachandra",
+    "profileUrl": "https://www.geeksforgeeks.org/profile/dasariyaswanthsribalachandra",
+    "codingScore": 206,
+    "problemsSolved": 94
   },
   "linkedin": {
     "profileUrl": "https://www.linkedin.com/in/dasari-yaswanth-sri-balachandra/",
-    "connections": "500+"
+    "connections": "800+"
   }
 }
 

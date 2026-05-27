@@ -102,25 +102,25 @@ const Skills: React.FC = () => {
         >
           <Card className="text-center">
             <div className="text-4xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent mb-2">
-              30+
+              10+
             </div>
             <div className="text-gray-600 dark:text-gray-400 font-medium">Technologies</div>
           </Card>
           <Card className="text-center">
             <div className="text-4xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent mb-2">
-              5+
+              1+
             </div>
             <div className="text-gray-600 dark:text-gray-400 font-medium">Years Experience</div>
           </Card>
           <Card className="text-center">
             <div className="text-4xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent mb-2">
-              50+
+              5+
             </div>
             <div className="text-gray-600 dark:text-gray-400 font-medium">Projects Completed</div>
           </Card>
           <Card className="text-center">
             <div className="text-4xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent mb-2">
-              8
+              5+
             </div>
             <div className="text-gray-600 dark:text-gray-400 font-medium">Certifications</div>
           </Card>

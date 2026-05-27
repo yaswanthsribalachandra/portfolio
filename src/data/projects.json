@@ -1,212 +1,107 @@
 [
   {
     "id": 1,
-    "name": "AI-Powered Code Review Assistant",
-    "shortDescription": "Intelligent code review tool powered by GPT-4 and custom ML models",
-    "description": "Enterprise-grade AI assistant that analyzes code quality, identifies bugs, suggests improvements, and enforces coding standards using advanced NLP and static analysis.",
-    "problemStatement": "Manual code reviews are time-consuming and often miss subtle bugs or security vulnerabilities. Teams need automated, intelligent assistance to maintain code quality at scale.",
-    "image": "/projects/ai-code-review.jpg",
-    "category": ["AI/ML", "Full Stack"],
-    "techStack": ["React", "Python", "FastAPI", "OpenAI GPT-4", "Docker", "PostgreSQL", "Redis", "Azure"],
+    "name": "AI Certificate Generation Platform",
+    "shortDescription": "Automated certificate generation and verification platform with dynamic templates",
+    "description": "Full-stack certificate management system that enables automated certificate creation, bulk generation, QR-based verification, and secure credential sharing for events, internships, and organizations.",
+    "problemStatement": "Manual certificate creation is repetitive, error-prone, and difficult to manage at scale. Organizations need an automated system for generating and verifying certificates efficiently.",
+    "image": "/projects/certificate-generator.jpg",
+    "category": ["Full Stack", "Automation"],
+    "techStack": ["React", "JavaScript", "Python", "FastAPI", "MongoDB", "Node.js", "Cloudinary", "Azure"],
     "features": [
-      "Real-time code analysis with GPT-4 integration",
-      "Custom ML models for bug detection",
-      "Security vulnerability scanning",
-      "Automated documentation generation",
-      "Integration with GitHub, GitLab, Bitbucket",
-      "Team collaboration features",
-      "Performance metrics dashboard"
+      "Dynamic certificate template generation",
+      "Bulk certificate generation support",
+      "QR code-based certificate verification",
+      "Unique credential verification links",
+      "PDF export and download functionality",
+      "Secure cloud storage integration",
+      "Admin dashboard for certificate management"
     ],
     "challenges": [
-      "Optimizing AI response time for large codebases",
-      "Training custom models for domain-specific languages",
-      "Handling rate limits with OpenAI API"
+      "Generating certificates dynamically with accurate formatting",
+      "Managing secure verification links and QR validation",
+      "Handling bulk certificate processing efficiently"
     ],
     "futureImprovements": [
-      "Support for more programming languages",
-      "Self-learning from team feedback",
-      "IDE plugin development"
+      "Blockchain-based credential validation",
+      "Email automation for certificate delivery",
+      "Custom drag-and-drop certificate designer"
     ],
-    "status": "Production",
-    "type": "Team",
-    "githubUrl": "",
-    "liveUrl": "",
-    "deployment": "Azure App Service",
-    "architectureDiagram": "/architecture/ai-code-review.png"
+    "status": "Completed",
+    "type": "Personal",
+    "githubUrl": "https://github.com/yaswanthsribalachandra/certificate_generator",
+    "liveUrl": "https://github.com/yaswanthsribalachandra/certificate_generator",
+    "deployment": "Azure",
+    "architectureDiagram": "/architecture/certificate-generator.png"
   },
   {
     "id": 2,
-    "name": "Multi-Cloud Infrastructure Manager",
-    "shortDescription": "Unified dashboard for managing AWS, Azure, and GCP resources",
-    "description": "Comprehensive cloud management platform that provides a single interface for provisioning, monitoring, and optimizing resources across multiple cloud providers.",
-    "problemStatement": "Organizations using multi-cloud strategies struggle with fragmented management tools, leading to inefficiency, increased costs, and security gaps.",
-    "image": "/projects/cloud-manager.jpg",
-    "category": ["Cloud", "DevOps", "Full Stack"],
-    "techStack": ["Next.js", "TypeScript", "Node.js", "Terraform", "Docker", "Kubernetes", "PostgreSQL", "Grafana"],
+    "name": "NexSpace",
+    "shortDescription": "Modern collaborative workspace and productivity management platform",
+    "description": "Scalable full-stack productivity platform designed for collaboration, workspace management, task tracking, and seamless team communication with modern UI/UX and secure backend architecture.",
+    "problemStatement": "Teams struggle with fragmented productivity tools and inefficient collaboration workflows. NexSpace centralizes workspace management and communication into a unified platform.",
+    "image": "/projects/nexspace.jpg",
+    "category": ["Full Stack", "Productivity"],
+    "techStack": ["React", "JavaScript", "Python", "FastAPI", "MongoDB", "JWT", "Tailwind CSS", "Azure"],
     "features": [
-      "Unified resource dashboard across AWS, Azure, GCP",
-      "Cost optimization recommendations",
-      "Automated infrastructure provisioning with Terraform",
-      "Real-time monitoring and alerting",
-      "Security compliance checking",
-      "Resource tagging and organization",
-      "Custom reporting and analytics"
+      "User authentication and role-based access",
+      "Workspace and task management",
+      "Responsive and modern dashboard UI",
+      "Real-time collaboration workflows",
+      "REST API integration with FastAPI",
+      "Secure JWT authentication",
+      "Cloud deployment and scalability"
     ],
     "challenges": [
-      "Normalizing APIs across different cloud providers",
-      "Implementing secure credential management",
-      "Scaling real-time monitoring for thousands of resources"
+      "Designing scalable backend APIs for multiple users",
+      "Maintaining smooth frontend-backend synchronization",
+      "Implementing secure authentication and authorization"
     ],
     "futureImprovements": [
-      "AI-powered cost optimization",
-      "Automated incident response",
-      "Multi-region disaster recovery automation"
+      "Real-time chat and notifications",
+      "AI-powered productivity insights",
+      "Team analytics and reporting dashboard"
     ],
-    "status": "Production",
-    "type": "Individual",
-    "githubUrl": "",
-    "liveUrl": "",
-    "deployment": "Vercel + AWS Lambda",
-    "architectureDiagram": "/architecture/cloud-manager.png"
+    "status": "Completed",
+    "type": "Personal",
+    "githubUrl": "https://github.com/yaswanthsribalachandra/NexSpace",
+    "liveUrl": "https://webappfrontend-fmheb9bsfabwbre9.southeastasia-01.azurewebsites.net",
+    "deployment": "Azure App Service",
+    "architectureDiagram": "/architecture/nexspace.png"
   },
   {
     "id": 3,
-    "name": "Real-time Collaboration Platform",
-    "shortDescription": "Next-generation team collaboration tool with AI features",
-    "description": "Modern collaboration platform combining real-time document editing, video conferencing, task management, and AI-powered productivity features.",
-    "problemStatement": "Existing collaboration tools are fragmented, requiring multiple subscriptions. Teams need an integrated solution with modern AI capabilities.",
-    "image": "/projects/collab-platform.jpg",
-    "category": ["Full Stack", "AI/ML"],
-    "techStack": ["React", "WebRTC", "Socket.io", "Node.js", "MongoDB", "Redis", "AWS S3", "Docker"],
+    "name": "SentientArt",
+    "shortDescription": "AI-powered creative platform for generating intelligent digital artwork",
+    "description": "Creative AI application that leverages machine learning and generative AI techniques to produce artistic visual content with customizable prompts and intelligent rendering workflows.",
+    "problemStatement": "Creating high-quality digital artwork requires significant artistic expertise and time. Users need an accessible AI-driven platform for generating creative visuals efficiently.",
+    "image": "/projects/sentientart.jpg",
+    "category": ["AI/ML", "Generative AI"],
+    "techStack": ["React", "JavaScript", "Python", "FastAPI", "Machine Learning", "OpenAI API", "Cloudinary", "Azure"],
     "features": [
-      "Real-time collaborative document editing",
-      "HD video/audio conferencing",
-      "AI meeting summarization",
-      "Intelligent task prioritization",
-      "File sharing and version control",
-      "Team analytics dashboard",
-      "Custom workflow automation"
+      "AI-generated artwork from text prompts",
+      "Customizable art styles and themes",
+      "Interactive and responsive UI",
+      "Image generation workflow integration",
+      "Cloud-based media storage",
+      "Prompt optimization for better outputs",
+      "Scalable backend inference APIs"
     ],
     "challenges": [
-      "Implementing operational transformation for concurrent editing",
-      "Optimizing WebRTC for low-latency communication",
-      "Scaling to support 10,000+ concurrent users"
+      "Optimizing image generation performance",
+      "Improving prompt-to-image consistency",
+      "Managing large media assets efficiently"
     ],
     "futureImprovements": [
-      "Mobile native applications",
-      "Advanced AI features (sentiment analysis, action items extraction)",
-      "Integration marketplace"
+      "Advanced style transfer capabilities",
+      "Community gallery and sharing features",
+      "Real-time collaborative art generation"
     ],
-    "status": "Beta",
-    "type": "Team",
-    "githubUrl": "",
-    "liveUrl": "",
-    "deployment": "AWS ECS",
-    "architectureDiagram": "/architecture/collab-platform.png"
-  },
-  {
-    "id": 4,
-    "name": "E-commerce Analytics Engine",
-    "shortDescription": "Advanced analytics platform for online retailers",
-    "description": "Comprehensive analytics solution providing real-time insights into customer behavior, inventory management, and sales forecasting using machine learning.",
-    "problemStatement": "E-commerce businesses lack actionable insights from their data, leading to poor inventory decisions and missed revenue opportunities.",
-    "image": "/projects/ecommerce-analytics.jpg",
-    "category": ["AI/ML", "Full Stack", "Cloud"],
-    "techStack": ["Vue.js", "Python", "TensorFlow", "Apache Kafka", "PostgreSQL", "Redis", "GCP BigQuery", "Docker"],
-    "features": [
-      "Real-time sales dashboard",
-      "Customer segmentation with ML clustering",
-      "Demand forecasting using time-series models",
-      "A/B testing framework",
-      "Churn prediction",
-      "Product recommendation engine",
-      "Custom report builder"
-    ],
-    "challenges": [
-      "Processing millions of events per day in real-time",
-      "Training accurate forecasting models with seasonal patterns",
-      "Ensuring data privacy compliance (GDPR, CCPA)"
-    ],
-    "futureImprovements": [
-      "Automated pricing optimization",
-      "Advanced attribution modeling",
-      "Predictive customer lifetime value"
-    ],
-    "status": "Production",
-    "type": "Individual",
-    "githubUrl": "",
-    "liveUrl": "",
-    "deployment": "Google Cloud Run",
-    "architectureDiagram": "/architecture/ecommerce-analytics.png"
-  },
-  {
-    "id": 5,
-    "name": "DevOps Automation Suite",
-    "shortDescription": "Complete CI/CD pipeline automation with intelligent deployment",
-    "description": "Enterprise DevOps platform that automates the entire software delivery lifecycle with intelligent testing, deployment strategies, and rollback capabilities.",
-    "problemStatement": "Manual deployment processes are error-prone and slow. Teams need intelligent automation that can make deployment decisions based on metrics.",
-    "image": "/projects/devops-suite.jpg",
-    "category": ["DevOps", "Cloud"],
-    "techStack": ["React", "Go", "Kubernetes", "ArgoCD", "Prometheus", "Grafana", "GitHub Actions", "Terraform"],
-    "features": [
-      "Automated CI/CD pipeline generation",
-      "Intelligent deployment strategies (blue-green, canary)",
-      "Automated testing orchestration",
-      "Infrastructure as Code management",
-      "Real-time deployment monitoring",
-      "Automated rollback on failure",
-      "Multi-environment management"
-    ],
-    "challenges": [
-      "Implementing reliable automated rollback mechanisms",
-      "Integrating with various source control and deployment platforms",
-      "Ensuring zero-downtime deployments"
-    ],
-    "futureImprovements": [
-      "AI-powered deployment risk assessment",
-      "Predictive scaling",
-      "Advanced chaos engineering integration"
-    ],
-    "status": "Production",
-    "type": "Team",
-    "githubUrl": "",
-    "liveUrl": "",
-    "deployment": "Self-hosted Kubernetes",
-    "architectureDiagram": "/architecture/devops-suite.png"
-  },
-  {
-    "id": 6,
-    "name": "Smart Home IoT Dashboard",
-    "shortDescription": "Unified control center for IoT devices with AI automation",
-    "description": "Comprehensive IoT platform for managing smart home devices with machine learning-based automation and energy optimization.",
-    "problemStatement": "Smart home ecosystems are fragmented across different vendors. Users need a unified platform with intelligent automation capabilities.",
-    "image": "/projects/iot-dashboard.jpg",
-    "category": ["Web Development", "AI/ML"],
-    "techStack": ["React Native", "Node.js", "MQTT", "InfluxDB", "TensorFlow Lite", "Firebase", "Docker"],
-    "features": [
-      "Unified device control interface",
-      "ML-based usage pattern recognition",
-      "Automated routines and scenes",
-      "Energy consumption analytics",
-      "Voice control integration",
-      "Security monitoring",
-      "Mobile and web applications"
-    ],
-    "challenges": [
-      "Supporting diverse IoT protocols",
-      "Ensuring low-latency device control",
-      "Implementing secure device authentication"
-    ],
-    "futureImprovements": [
-      "Predictive maintenance alerts",
-      "Advanced energy optimization algorithms",
-      "Integration with more IoT platforms"
-    ],
-    "status": "In Progress",
-    "type": "Individual",
-    "githubUrl": "",
-    "liveUrl": "",
-    "deployment": "Firebase Hosting",
-    "architectureDiagram": "/architecture/iot-dashboard.png"
+    "status": "Completed",
+    "type": "Personal",
+    "githubUrl": "https://github.com/yaswanthsribalachandra/SENTIENTART",
+    "liveUrl": "https://github.com/yaswanthsribalachandra/SENTIENTART",
+    "deployment": "Azure",
+    "architectureDiagram": "/architecture/sentientart.png"
   }
 ]

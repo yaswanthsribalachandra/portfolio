@@ -28,28 +28,26 @@ const About: React.FC = () => {
     }
   ];
 
-  const timeline = [
-    {
-      year: '2024',
-      title: 'Senior Software Engineer',
-      description: 'Leading cloud-native development and AI initiatives at TechCorp Inc.'
-    },
-    {
-      year: '2022',
-      title: 'Full Stack Developer',
-      description: 'Built scalable SaaS applications serving 50,000+ users at StartupXYZ'
-    },
-    {
-      year: '2020',
-      title: 'Started Professional Journey',
-      description: 'Graduated with B.Tech in Computer Science and began career in software development'
-    },
-    {
-      year: '2019',
-      title: 'First Internship',
-      description: 'Gained hands-on experience in web development and cloud technologies'
-    }
-  ];
+const timeline = [
+  {
+    year: '2026',
+    title: 'First Internship',
+    description:
+      'Started professional experience by working on Full Stack Development, AI/ML applications, and cloud-based deployment projects using React.js, FastAPI, and Azure.'
+  },
+  {
+    year: '2025',
+    title: 'AI/ML & Full Stack Projects',
+    description:
+      'Built projects using Machine Learning, NLP, Deep Learning, Generative AI, RAG systems, and scalable web technologies.'
+  },
+  {
+    year: '2024',
+    title: 'Started Tech Journey',
+    description:
+      'Started learning programming, Data Structures & Algorithms, web development, and software engineering fundamentals through hands-on projects.'
+  }
+];
 
   return (
     <section id="about" className="py-20 bg-white dark:bg-gray-900">

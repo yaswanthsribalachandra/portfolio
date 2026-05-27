@@ -79,7 +79,11 @@ const Certifications: React.FC = () => {
                     size="sm"
                     className="w-full"
                     icon={<FaExternalLinkAlt />}
-                    onClick={() => console.log('Verify certification:', cert.id)}
+                   onClick={() => {
+                      if (cert.verifyUrl) {
+                        window.open(cert.verifyUrl, "_blank", "noopener,noreferrer");
+                      }
+                    }}
                   >
                     Verify Credential
                   </Button>

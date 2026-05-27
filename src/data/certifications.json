@@ -1,90 +1,159 @@
 [
   {
     "id": 1,
-    "name": "Microsoft Certified: Azure Solutions Architect Expert",
-    "organization": "Microsoft",
-    "issueDate": "2024-03",
-    "credentialId": "AZ-305-XXXXX",
-    "verifyUrl": "",
-    "badgeUrl": "/badges/azure-architect.png",
-    "skills": ["Azure", "Cloud Architecture", "Infrastructure", "Security"],
-    "description": "Advanced certification for designing cloud and hybrid solutions on Microsoft Azure"
+    "name": "AWS Artificial Intelligence Practitioner Learning Plan",
+    "organization": "Amazon Web Services (AWS)",
+    "issueDate": "2026-05",
+    "credentialId": "1f910e48-845e-40b5-950a-053cf7b8e134",
+    "verifyUrl": "https://skillbuilder.aws/1f910e48-845e-40b5-950a-053cf7b8e134",
+    "badgeUrl": "/badges/aws-ai.png",
+    "skills": [
+      "Machine Learning",
+      "Natural Language Processing",
+      "Generative AI",
+      "Deep Learning",
+      "Prompt Engineering"
+    ],
+    "description": "Professional learning plan focused on AI, Generative AI, NLP, and deep learning concepts using AWS technologies."
   },
   {
     "id": 2,
-    "name": "AWS Certified Solutions Architect - Professional",
-    "organization": "Amazon Web Services",
-    "issueDate": "2023-11",
-    "credentialId": "AWS-SAP-XXXXX",
-    "verifyUrl": "",
-    "badgeUrl": "/badges/aws-architect.png",
-    "skills": ["AWS", "Cloud Design", "High Availability", "Disaster Recovery"],
-    "description": "Professional-level certification for designing distributed systems on AWS"
+    "name": "Oracle Data Platform 2025 Certified Foundations Associate",
+    "organization": "Oracle",
+    "issueDate": "2025-07",
+    "credentialId": "101969818OCI25DCFA",
+    "verifyUrl": "https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC6441270&trackId=OCI25DCFA&key=4d50526d64ecb7f2849fc1b154425513160c15d6",
+    "badgeUrl": "/badges/sql.png",
+    "skills": [
+      "Data Warehousing",
+      "Data Storage Technologies",
+      "Database Systems"
+    ],
+    "description": "Certification validating foundational knowledge of Oracle data platforms, storage, and warehousing technologies."
   },
   {
     "id": 3,
-    "name": "Google Cloud Professional Cloud Architect",
-    "organization": "Google Cloud",
-    "issueDate": "2024-01",
-    "credentialId": "GCP-PCA-XXXXX",
-    "verifyUrl": "",
-    "badgeUrl": "/badges/gcp-architect.png",
-    "skills": ["GCP", "Cloud Infrastructure", "Networking", "Security"],
-    "description": "Professional certification for designing and managing GCP solutions"
+    "name": "GitHub Foundations",
+    "organization": "GitHub",
+    "issueDate": "2025-04",
+    "credentialId": "",
+    "verifyUrl": "https://www.credly.com/badges/ecae55af-b610-40b5-b132-52dae437cc1b/linked_in_profile",
+    "badgeUrl": "/badges/github.png",
+    "skills": [
+      "Git",
+      "GitHub",
+      "Version Control",
+      "Project Management"
+    ],
+    "description": "Industry-recognized certification covering Git, GitHub workflows, collaboration, and repository management."
   },
   {
     "id": 4,
-    "name": "Certified Kubernetes Administrator (CKA)",
-    "organization": "Cloud Native Computing Foundation",
-    "issueDate": "2023-09",
-    "credentialId": "CKA-XXXXX",
-    "verifyUrl": "",
-    "badgeUrl": "/badges/cka.png",
-    "skills": ["Kubernetes", "Container Orchestration", "DevOps"],
-    "description": "Hands-on certification for Kubernetes administration"
+    "name": "MongoDB Node.js Developer Path",
+    "organization": "MongoDB",
+    "issueDate": "2025-04",
+    "credentialId": "MDBj1x3huiigv",
+    "verifyUrl": "https://learn.mongodb.com/c/y71YfhRxQRK6JUmMlrKKFQ",
+    "badgeUrl": "/badges/mongodb.png",
+    "skills": [
+      "MongoDB",
+      "NoSQL",
+      "Node.js",
+      "Backend Development"
+    ],
+    "description": "Developer certification path focused on MongoDB application development using Node.js and NoSQL databases."
   },
   {
     "id": 5,
-    "name": "Machine Learning Specialization",
-    "organization": "Coursera - Stanford University",
-    "issueDate": "2023-06",
-    "credentialId": "COURSERA-ML-XXXXX",
-    "verifyUrl": "",
-    "badgeUrl": "/badges/ml-stanford.png",
-    "skills": ["Machine Learning", "Neural Networks", "Python"],
-    "description": "Comprehensive ML course covering supervised and unsupervised learning"
+    "name": "SQL for Data Science",
+    "organization": "edX",
+    "issueDate": "2025-04",
+    "credentialId": "bf2dfcd73ab346b4ad5e0140c93f6a6a",
+    "verifyUrl": "https://courses.edx.org/certificates/bf2dfcd73ab346b4ad5e0140c93f6a6a",
+    "badgeUrl": "/badges/sql.png",
+    "skills": [
+      "SQL",
+      "Data Science",
+      "Database Querying",
+      "Data Analysis"
+    ],
+    "description": "Certification covering SQL fundamentals and practical querying techniques for data science applications."
   },
   {
     "id": 6,
-    "name": "LeetCode Top 5% Global",
-    "organization": "LeetCode",
-    "issueDate": "2024-02",
+    "name": "Python Essentials 2",
+    "organization": "Cisco",
+    "issueDate": "2025-04",
     "credentialId": "",
-    "verifyUrl": "",
-    "badgeUrl": "/badges/leetcode.png",
-    "skills": ["Algorithms", "Data Structures", "Problem Solving"],
-    "description": "Ranked in top 5% of global LeetCode users with 500+ problems solved"
+    "verifyUrl": "https://www.credly.com/badges/ac34aafb-0e85-49e8-9094-9c803c47cb78/linked_in_profile",
+    "badgeUrl": "/badges/python.png",
+    "skills": [
+      "Python",
+      "Object-Oriented Programming",
+      "Problem Solving"
+    ],
+    "description": "Advanced Python certification covering programming concepts, OOP, and practical development skills."
   },
   {
     "id": 7,
-    "name": "HashiCorp Certified: Terraform Associate",
-    "organization": "HashiCorp",
-    "issueDate": "2023-08",
-    "credentialId": "TERRAFORM-XXXXX",
-    "verifyUrl": "",
-    "badgeUrl": "/badges/terraform.png",
-    "skills": ["Terraform", "Infrastructure as Code", "Cloud Automation"],
-    "description": "Certification for infrastructure automation with Terraform"
+    "name": "Salesforce Developer Virtual Internship",
+    "organization": "Salesforce",
+    "issueDate": "2025-01",
+    "credentialId": "",
+    "verifyUrl": "https://skillwallet.smartinternz.com/internships/salesforce_certificates/6c23cf54347d8e2dda52f41a918efb43",
+    "badgeUrl": "/badges/salesforce.png",
+    "skills": [
+      "Apex Programming",
+      "Debugging",
+      "Testing",
+      "Salesforce Development"
+    ],
+    "description": "Virtual internship experience focused on Salesforce development, debugging, and application testing."
   },
   {
     "id": 8,
-    "name": "MongoDB Certified Developer",
-    "organization": "MongoDB University",
-    "issueDate": "2023-05",
-    "credentialId": "MONGO-DEV-XXXXX",
-    "verifyUrl": "",
-    "badgeUrl": "/badges/mongodb.png",
-    "skills": ["MongoDB", "NoSQL", "Database Design"],
-    "description": "Certification for MongoDB application development"
+    "name": "AWS Academy Graduate - AWS Academy Data Engineering",
+    "organization": "Amazon Web Services (AWS)",
+    "issueDate": "2023-11",
+    "credentialId": "",
+    "verifyUrl": "https://www.credly.com/badges/92dff63a-3701-44b0-960a-33f5977e53c9/linked_in_profile",
+    "badgeUrl": "/badges/aws-data.png",
+    "skills": [
+      "AWS",
+      "Data Engineering",
+      "Cloud Computing"
+    ],
+    "description": "AWS Academy certification focused on cloud-based data engineering concepts and services."
+  },
+  {
+    "id": 9,
+    "name": "CCNA: Introduction to Networks",
+    "organization": "Cisco",
+    "issueDate": "2024-05",
+    "credentialId": "",
+    "verifyUrl": "https://www.credly.com/badges/44918931-2466-4ada-a660-3ea03a0922ad/public_url",
+    "badgeUrl": "/badges/ccna.png",
+    "skills": [
+      "Computer Networks",
+      "Networking Fundamentals",
+      "Routing",
+      "Switching"
+    ],
+    "description": "Cisco networking certification covering foundational networking concepts, routing, and switching."
+  },
+  {
+    "id": 10,
+    "name": "Google Python Crash Course",
+    "organization": "Google",
+    "issueDate": "2023-09",
+    "credentialId": "292TQ2FXL7VL",
+    "verifyUrl": "https://coursera.org/verify/292TQ2FXL7VL",
+    "badgeUrl": "/badges/google-python.png",
+    "skills": [
+      "Python",
+      "Programming Fundamentals",
+      "Automation"
+    ],
+    "description": "Google certification introducing Python programming fundamentals and practical coding concepts."
   }
 ]

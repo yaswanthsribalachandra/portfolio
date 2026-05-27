@@ -72,12 +72,9 @@ const Footer: React.FC = () => {
 
         {/* Bottom Bar */}
         <div className="pt-8 border-t border-gray-200 dark:border-gray-800">
-          <div className="flex flex-col md:flex-row justify-between items-center gap-4">
+           <div className="flex justify-center items-center text-center">
             <p className="text-gray-600 dark:text-gray-400 text-sm">
               © {currentYear} Dasari Yaswanth Sri Balachandra. All rights reserved.
-            </p>
-            <p className="text-gray-600 dark:text-gray-400 text-sm flex items-center gap-2">
-              Built with <FaHeart className="text-red-500" /> using React & Tailwind CSS
             </p>
           </div>
         </div>

@@ -67,8 +67,7 @@ const CodingProfiles: React.FC = () => {
       data: codingProfilesData.geeksforgeeks,
       stats: [
         { label: 'Coding Score', value: codingProfilesData.geeksforgeeks.codingScore },
-        { label: 'Problems Solved', value: codingProfilesData.geeksforgeeks.problemsSolved },
-        { label: 'Monthly Rank', value: codingProfilesData.geeksforgeeks.monthlyRank }
+        { label: 'Problems Solved', value: codingProfilesData.geeksforgeeks.problemsSolved }
       ]
     }
   ];
