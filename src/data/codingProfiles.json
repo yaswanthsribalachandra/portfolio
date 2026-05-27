@@ -1,0 +1,53 @@
+{
+  "leetcode": {
+    "username": "YASWANTH_SRI_BALACHANDRA",
+    "profileUrl": "https://leetcode.com/u/YASWANTH_SRI_BALACHANDRA/",
+    "ranking": "Top 70%",
+    "totalSolved": 273,
+    "easy": 182,
+    "medium": 90,
+    "hard": 1,
+    "streak": 86,
+    "badges": ["50 Days Badge", "100 Days Badge"]
+  },
+  "github": {
+    "username": "yaswanthsribalachandra",
+    "profileUrl": "https://github.com/yaswanthsribalachandra",
+    "repositories": 20,
+    "stars": 5,
+    "followers": 2,
+    "contributions": 178,
+    "streak": 9
+  },
+  "hackerrank": {
+    "username": "johndoe",
+    "profileUrl": "https://hackerrank.com/johndoe",
+    "stars": {
+      "problemSolving": 5,
+      "python": 5,
+      "sql": 4,
+      "algorithms": 5
+    },
+    "badges": ["Gold", "Problem Solving Expert", "30 Days of Code"]
+  },
+  "codechef": {
+    "username": "johndoe",
+    "profileUrl": "https://codechef.com/users/johndoe",
+    "rating": 2134,
+    "stars": "5★",
+    "globalRank": 2547,
+    "countryRank": 234
+  },
+  "geeksforgeeks": {
+    "username": "johndoe",
+    "profileUrl": "https://auth.geeksforgeeks.org/user/johndoe",
+    "codingScore": 2458,
+    "problemsSolved": 456,
+    "monthlyRank": 125
+  },
+  "linkedin": {
+    "profileUrl": "https://www.linkedin.com/in/dasari-yaswanth-sri-balachandra/",
+    "connections": "500+"
+  }
+}
+

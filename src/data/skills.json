@@ -1,0 +1,214 @@
+{
+  "frontend": [
+    {
+      "name": "React.js",
+      "proficiency": 95,
+      "years": 4,
+      "icon": "FaReact"
+    },
+    {
+      "name": "Next.js",
+      "proficiency": 90,
+      "years": 3,
+      "icon": "TbBrandNextjs"
+    },
+    {
+      "name": "TypeScript",
+      "proficiency": 92,
+      "years": 4,
+      "icon": "SiTypescript"
+    },
+    {
+      "name": "Tailwind CSS",
+      "proficiency": 95,
+      "years": 3,
+      "icon": "SiTailwindcss"
+    },
+    {
+      "name": "Vue.js",
+      "proficiency": 80,
+      "years": 2,
+      "icon": "FaVuejs"
+    }
+  ],
+  "backend": [
+    {
+      "name": "Node.js",
+      "proficiency": 90,
+      "years": 4,
+      "icon": "FaNode"
+    },
+    {
+      "name": "Python",
+      "proficiency": 95,
+      "years": 5,
+      "icon": "FaPython"
+    },
+    {
+      "name": "FastAPI",
+      "proficiency": 88,
+      "years": 3,
+      "icon": "SiFastapi"
+    },
+    {
+      "name": "Express.js",
+      "proficiency": 90,
+      "years": 4,
+      "icon": "SiExpress"
+    },
+    {
+      "name": "GraphQL",
+      "proficiency": 85,
+      "years": 2,
+      "icon": "SiGraphql"
+    }
+  ],
+  "cloud": [
+    {
+      "name": "Microsoft Azure",
+      "proficiency": 92,
+      "years": 3,
+      "icon": "SiMicrosoftazure"
+    },
+    {
+      "name": "AWS",
+      "proficiency": 88,
+      "years": 3,
+      "icon": "FaAws"
+    },
+    {
+      "name": "Google Cloud",
+      "proficiency": 82,
+      "years": 2,
+      "icon": "SiGooglecloud"
+    },
+    {
+      "name": "Firebase",
+      "proficiency": 90,
+      "years": 3,
+      "icon": "SiFirebase"
+    }
+  ],
+  "aiml": [
+    {
+      "name": "TensorFlow",
+      "proficiency": 85,
+      "years": 3,
+      "icon": "SiTensorflow"
+    },
+    {
+      "name": "PyTorch",
+      "proficiency": 88,
+      "years": 3,
+      "icon": "SiPytorch"
+    },
+    {
+      "name": "Scikit-learn",
+      "proficiency": 90,
+      "years": 4,
+      "icon": "SiScikitlearn"
+    },
+    {
+      "name": "OpenAI API",
+      "proficiency": 92,
+      "years": 2,
+      "icon": "SiOpenai"
+    },
+    {
+      "name": "LangChain",
+      "proficiency": 87,
+      "years": 1,
+      "icon": "SiChainlink"
+    }
+  ],
+  "databases": [
+    {
+      "name": "PostgreSQL",
+      "proficiency": 90,
+      "years": 4,
+      "icon": "SiPostgresql"
+    },
+    {
+      "name": "MongoDB",
+      "proficiency": 92,
+      "years": 4,
+      "icon": "SiMongodb"
+    },
+    {
+      "name": "Redis",
+      "proficiency": 85,
+      "years": 3,
+      "icon": "SiRedis"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": 88,
+      "years": 4,
+      "icon": "SiMysql"
+    }
+  ],
+  "devops": [
+    {
+      "name": "Docker",
+      "proficiency": 92,
+      "years": 4,
+      "icon": "FaDocker"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": 85,
+      "years": 3,
+      "icon": "SiKubernetes"
+    },
+    {
+      "name": "GitHub Actions",
+      "proficiency": 90,
+      "years": 3,
+      "icon": "SiGithubactions"
+    },
+    {
+      "name": "Terraform",
+      "proficiency": 82,
+      "years": 2,
+      "icon": "SiTerraform"
+    },
+    {
+      "name": "Jenkins",
+      "proficiency": 80,
+      "years": 2,
+      "icon": "SiJenkins"
+    }
+  ],
+  "tools": [
+    {
+      "name": "Git",
+      "proficiency": 95,
+      "years": 5,
+      "icon": "FaGitAlt"
+    },
+    {
+      "name": "VS Code",
+      "proficiency": 95,
+      "years": 5,
+      "icon": "SiVisualstudiocode"
+    },
+    {
+      "name": "Postman",
+      "proficiency": 90,
+      "years": 4,
+      "icon": "SiPostman"
+    },
+    {
+      "name": "Linux",
+      "proficiency": 88,
+      "years": 4,
+      "icon": "FaLinux"
+    },
+    {
+      "name": "Figma",
+      "proficiency": 80,
+      "years": 3,
+      "icon": "FaFigma"
+    }
+  ]
+}

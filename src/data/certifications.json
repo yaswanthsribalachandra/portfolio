@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Microsoft Certified: Azure Solutions Architect Expert",
+    "organization": "Microsoft",
+    "issueDate": "2024-03",
+    "credentialId": "AZ-305-XXXXX",
+    "verifyUrl": "",
+    "badgeUrl": "/badges/azure-architect.png",
+    "skills": ["Azure", "Cloud Architecture", "Infrastructure", "Security"],
+    "description": "Advanced certification for designing cloud and hybrid solutions on Microsoft Azure"
+  },
+  {
+    "id": 2,
+    "name": "AWS Certified Solutions Architect - Professional",
+    "organization": "Amazon Web Services",
+    "issueDate": "2023-11",
+    "credentialId": "AWS-SAP-XXXXX",
+    "verifyUrl": "",
+    "badgeUrl": "/badges/aws-architect.png",
+    "skills": ["AWS", "Cloud Design", "High Availability", "Disaster Recovery"],
+    "description": "Professional-level certification for designing distributed systems on AWS"
+  },
+  {
+    "id": 3,
+    "name": "Google Cloud Professional Cloud Architect",
+    "organization": "Google Cloud",
+    "issueDate": "2024-01",
+    "credentialId": "GCP-PCA-XXXXX",
+    "verifyUrl": "",
+    "badgeUrl": "/badges/gcp-architect.png",
+    "skills": ["GCP", "Cloud Infrastructure", "Networking", "Security"],
+    "description": "Professional certification for designing and managing GCP solutions"
+  },
+  {
+    "id": 4,
+    "name": "Certified Kubernetes Administrator (CKA)",
+    "organization": "Cloud Native Computing Foundation",
+    "issueDate": "2023-09",
+    "credentialId": "CKA-XXXXX",
+    "verifyUrl": "",
+    "badgeUrl": "/badges/cka.png",
+    "skills": ["Kubernetes", "Container Orchestration", "DevOps"],
+    "description": "Hands-on certification for Kubernetes administration"
+  },
+  {
+    "id": 5,
+    "name": "Machine Learning Specialization",
+    "organization": "Coursera - Stanford University",
+    "issueDate": "2023-06",
+    "credentialId": "COURSERA-ML-XXXXX",
+    "verifyUrl": "",
+    "badgeUrl": "/badges/ml-stanford.png",
+    "skills": ["Machine Learning", "Neural Networks", "Python"],
+    "description": "Comprehensive ML course covering supervised and unsupervised learning"
+  },
+  {
+    "id": 6,
+    "name": "LeetCode Top 5% Global",
+    "organization": "LeetCode",
+    "issueDate": "2024-02",
+    "credentialId": "",
+    "verifyUrl": "",
+    "badgeUrl": "/badges/leetcode.png",
+    "skills": ["Algorithms", "Data Structures", "Problem Solving"],
+    "description": "Ranked in top 5% of global LeetCode users with 500+ problems solved"
+  },
+  {
+    "id": 7,
+    "name": "HashiCorp Certified: Terraform Associate",
+    "organization": "HashiCorp",
+    "issueDate": "2023-08",
+    "credentialId": "TERRAFORM-XXXXX",
+    "verifyUrl": "",
+    "badgeUrl": "/badges/terraform.png",
+    "skills": ["Terraform", "Infrastructure as Code", "Cloud Automation"],
+    "description": "Certification for infrastructure automation with Terraform"
+  },
+  {
+    "id": 8,
+    "name": "MongoDB Certified Developer",
+    "organization": "MongoDB University",
+    "issueDate": "2023-05",
+    "credentialId": "MONGO-DEV-XXXXX",
+    "verifyUrl": "",
+    "badgeUrl": "/badges/mongodb.png",
+    "skills": ["MongoDB", "NoSQL", "Database Design"],
+    "description": "Certification for MongoDB application development"
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1,
+    "role": "Senior Software Engineer",
+    "company": "TechCorp Inc.",
+    "location": "San Francisco, CA",
+    "type": "Full-time",
+    "startDate": "2022-06",
+    "endDate": "Present",
+    "current": true,
+    "description": "Leading development of cloud-native applications and AI-powered solutions",
+    "responsibilities": [
+      "Architected and deployed microservices on Azure Kubernetes Service handling 10M+ daily requests",
+      "Led team of 5 engineers in developing AI-powered analytics platform using Python and TensorFlow",
+      "Reduced infrastructure costs by 40% through optimized cloud resource management",
+      "Implemented CI/CD pipelines using GitHub Actions and ArgoCD, reducing deployment time by 60%",
+      "Mentored junior developers and conducted code reviews to maintain high code quality standards"
+    ],
+    "achievements": [
+      "Promoted from Mid-level to Senior Engineer in 18 months",
+      "Received 'Innovation Award' for AI code review tool",
+      "Reduced API response time by 70% through optimization"
+    ],
+    "technologies": ["React", "TypeScript", "Python", "Azure", "Kubernetes", "Docker", "PostgreSQL", "Redis"]
+  },
+  {
+    "id": 2,
+    "role": "Full Stack Developer",
+    "company": "StartupXYZ",
+    "location": "Remote",
+    "type": "Full-time",
+    "startDate": "2020-08",
+    "endDate": "2022-05",
+    "current": false,
+    "description": "Built scalable web applications and RESTful APIs for SaaS platform",
+    "responsibilities": [
+      "Developed and maintained React-based dashboard serving 50,000+ active users",
+      "Built RESTful APIs using Node.js and Express, integrated with MongoDB",
+      "Implemented real-time features using WebSocket and Socket.io",
+      "Designed and optimized database schemas for improved query performance",
+      "Collaborated with design team to implement responsive, accessible UI components"
+    ],
+    "achievements": [
+      "Improved application load time by 50% through code splitting and lazy loading",
+      "Implemented automated testing achieving 85% code coverage",
+      "Led migration from REST to GraphQL, improving data fetching efficiency"
+    ],
+    "technologies": ["React", "Node.js", "MongoDB", "GraphQL", "AWS", "Docker", "Jest", "TypeScript"]
+  },
+  {
+    "id": 3,
+    "role": "Software Engineering Intern",
+    "company": "CloudSolutions Ltd.",
+    "location": "Boston, MA",
+    "type": "Internship",
+    "startDate": "2020-05",
+    "endDate": "2020-08",
+    "current": false,
+    "description": "Developed cloud automation tools and infrastructure monitoring solutions",
+    "responsibilities": [
+      "Created automation scripts for AWS resource provisioning using Python and Boto3",
+      "Built monitoring dashboard for cloud infrastructure using React and CloudWatch API",
+      "Assisted in migrating legacy applications to containerized Docker environments",
+      "Documented API endpoints and created technical documentation for internal tools"
+    ],
+    "achievements": [
+      "Automated resource provisioning process, saving 10 hours/week of manual work",
+      "Received full-time offer upon completion of internship",
+      "Contributed to open-source internal tools library"
+    ],
+    "technologies": ["Python", "AWS", "Docker", "React", "CloudFormation", "Lambda"]
+  },
+  {
+    "id": 4,
+    "role": "Web Development Intern",
+    "company": "Digital Agency Pro",
+    "location": "New York, NY",
+    "type": "Internship",
+    "startDate": "2019-06",
+    "endDate": "2019-08",
+    "current": false,
+    "description": "Developed responsive websites and web applications for clients",
+    "responsibilities": [
+      "Created responsive landing pages using HTML, CSS, and JavaScript",
+      "Implemented interactive features using React and modern JavaScript",
+      "Collaborated with designers to translate Figma mockups to functional websites",
+      "Optimized website performance and SEO for client projects"
+    ],
+    "achievements": [
+      "Delivered 8 client projects within tight deadlines",
+      "Achieved 95+ Google Lighthouse scores on all projects",
+      "Learned modern web development best practices"
+    ],
+    "technologies": ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS", "Figma"]
+  }
+]

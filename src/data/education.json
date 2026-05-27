@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "degree": "Bachelor of Technology (B.Tech) in Computer Science",
+    "institution": "Massachusetts Institute of Technology",
+    "location": "Cambridge, MA",
+    "startDate": "2016-09",
+    "endDate": "2020-05",
+    "gpa": "3.9/4.0",
+    "description": "Specialized in Artificial Intelligence and Cloud Computing",
+    "coursework": [
+      "Advanced Algorithms and Data Structures",
+      "Machine Learning and Deep Learning",
+      "Distributed Systems",
+      "Cloud Computing and Virtualization",
+      "Database Management Systems",
+      "Software Engineering Principles",
+      "Computer Networks",
+      "Operating Systems"
+    ],
+    "achievements": [
+      "Dean's List - All Semesters",
+      "Outstanding Senior Project Award",
+      "President of Computer Science Society",
+      "Led team to 1st place in University Hackathon 2019"
+    ],
+    "projects": [
+      "Built distributed ML training system for final year project",
+      "Developed campus event management platform serving 10,000+ students"
+    ]
+  },
+  {
+    "id": 2,
+    "degree": "High School Diploma",
+    "institution": "Science High School",
+    "location": "Boston, MA",
+    "startDate": "2012-09",
+    "endDate": "2016-05",
+    "gpa": "4.0/4.0",
+    "description": "Focus on Mathematics, Physics, and Computer Science",
+    "coursework": [
+      "AP Computer Science A",
+      "AP Calculus BC",
+      "AP Physics C",
+      "Advanced Programming"
+    ],
+    "achievements": [
+      "Valedictorian - Class of 2016",
+      "National Merit Scholar",
+      "First place in State Science Fair",
+      "Captain of Robotics Team"
+    ],
+    "projects": []
+  }
+]

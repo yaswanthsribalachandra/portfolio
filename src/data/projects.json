@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "AI-Powered Code Review Assistant",
+    "shortDescription": "Intelligent code review tool powered by GPT-4 and custom ML models",
+    "description": "Enterprise-grade AI assistant that analyzes code quality, identifies bugs, suggests improvements, and enforces coding standards using advanced NLP and static analysis.",
+    "problemStatement": "Manual code reviews are time-consuming and often miss subtle bugs or security vulnerabilities. Teams need automated, intelligent assistance to maintain code quality at scale.",
+    "image": "/projects/ai-code-review.jpg",
+    "category": ["AI/ML", "Full Stack"],
+    "techStack": ["React", "Python", "FastAPI", "OpenAI GPT-4", "Docker", "PostgreSQL", "Redis", "Azure"],
+    "features": [
+      "Real-time code analysis with GPT-4 integration",
+      "Custom ML models for bug detection",
+      "Security vulnerability scanning",
+      "Automated documentation generation",
+      "Integration with GitHub, GitLab, Bitbucket",
+      "Team collaboration features",
+      "Performance metrics dashboard"
+    ],
+    "challenges": [
+      "Optimizing AI response time for large codebases",
+      "Training custom models for domain-specific languages",
+      "Handling rate limits with OpenAI API"
+    ],
+    "futureImprovements": [
+      "Support for more programming languages",
+      "Self-learning from team feedback",
+      "IDE plugin development"
+    ],
+    "status": "Production",
+    "type": "Team",
+    "githubUrl": "",
+    "liveUrl": "",
+    "deployment": "Azure App Service",
+    "architectureDiagram": "/architecture/ai-code-review.png"
+  },
+  {
+    "id": 2,
+    "name": "Multi-Cloud Infrastructure Manager",
+    "shortDescription": "Unified dashboard for managing AWS, Azure, and GCP resources",
+    "description": "Comprehensive cloud management platform that provides a single interface for provisioning, monitoring, and optimizing resources across multiple cloud providers.",
+    "problemStatement": "Organizations using multi-cloud strategies struggle with fragmented management tools, leading to inefficiency, increased costs, and security gaps.",
+    "image": "/projects/cloud-manager.jpg",
+    "category": ["Cloud", "DevOps", "Full Stack"],
+    "techStack": ["Next.js", "TypeScript", "Node.js", "Terraform", "Docker", "Kubernetes", "PostgreSQL", "Grafana"],
+    "features": [
+      "Unified resource dashboard across AWS, Azure, GCP",
+      "Cost optimization recommendations",
+      "Automated infrastructure provisioning with Terraform",
+      "Real-time monitoring and alerting",
+      "Security compliance checking",
+      "Resource tagging and organization",
+      "Custom reporting and analytics"
+    ],
+    "challenges": [
+      "Normalizing APIs across different cloud providers",
+      "Implementing secure credential management",
+      "Scaling real-time monitoring for thousands of resources"
+    ],
+    "futureImprovements": [
+      "AI-powered cost optimization",
+      "Automated incident response",
+      "Multi-region disaster recovery automation"
+    ],
+    "status": "Production",
+    "type": "Individual",
+    "githubUrl": "",
+    "liveUrl": "",
+    "deployment": "Vercel + AWS Lambda",
+    "architectureDiagram": "/architecture/cloud-manager.png"
+  },
+  {
+    "id": 3,
+    "name": "Real-time Collaboration Platform",
+    "shortDescription": "Next-generation team collaboration tool with AI features",
+    "description": "Modern collaboration platform combining real-time document editing, video conferencing, task management, and AI-powered productivity features.",
+    "problemStatement": "Existing collaboration tools are fragmented, requiring multiple subscriptions. Teams need an integrated solution with modern AI capabilities.",
+    "image": "/projects/collab-platform.jpg",
+    "category": ["Full Stack", "AI/ML"],
+    "techStack": ["React", "WebRTC", "Socket.io", "Node.js", "MongoDB", "Redis", "AWS S3", "Docker"],
+    "features": [
+      "Real-time collaborative document editing",
+      "HD video/audio conferencing",
+      "AI meeting summarization",
+      "Intelligent task prioritization",
+      "File sharing and version control",
+      "Team analytics dashboard",
+      "Custom workflow automation"
+    ],
+    "challenges": [
+      "Implementing operational transformation for concurrent editing",
+      "Optimizing WebRTC for low-latency communication",
+      "Scaling to support 10,000+ concurrent users"
+    ],
+    "futureImprovements": [
+      "Mobile native applications",
+      "Advanced AI features (sentiment analysis, action items extraction)",
+      "Integration marketplace"
+    ],
+    "status": "Beta",
+    "type": "Team",
+    "githubUrl": "",
+    "liveUrl": "",
+    "deployment": "AWS ECS",
+    "architectureDiagram": "/architecture/collab-platform.png"
+  },
+  {
+    "id": 4,
+    "name": "E-commerce Analytics Engine",
+    "shortDescription": "Advanced analytics platform for online retailers",
+    "description": "Comprehensive analytics solution providing real-time insights into customer behavior, inventory management, and sales forecasting using machine learning.",
+    "problemStatement": "E-commerce businesses lack actionable insights from their data, leading to poor inventory decisions and missed revenue opportunities.",
+    "image": "/projects/ecommerce-analytics.jpg",
+    "category": ["AI/ML", "Full Stack", "Cloud"],
+    "techStack": ["Vue.js", "Python", "TensorFlow", "Apache Kafka", "PostgreSQL", "Redis", "GCP BigQuery", "Docker"],
+    "features": [
+      "Real-time sales dashboard",
+      "Customer segmentation with ML clustering",
+      "Demand forecasting using time-series models",
+      "A/B testing framework",
+      "Churn prediction",
+      "Product recommendation engine",
+      "Custom report builder"
+    ],
+    "challenges": [
+      "Processing millions of events per day in real-time",
+      "Training accurate forecasting models with seasonal patterns",
+      "Ensuring data privacy compliance (GDPR, CCPA)"
+    ],
+    "futureImprovements": [
+      "Automated pricing optimization",
+      "Advanced attribution modeling",
+      "Predictive customer lifetime value"
+    ],
+    "status": "Production",
+    "type": "Individual",
+    "githubUrl": "",
+    "liveUrl": "",
+    "deployment": "Google Cloud Run",
+    "architectureDiagram": "/architecture/ecommerce-analytics.png"
+  },
+  {
+    "id": 5,
+    "name": "DevOps Automation Suite",
+    "shortDescription": "Complete CI/CD pipeline automation with intelligent deployment",
+    "description": "Enterprise DevOps platform that automates the entire software delivery lifecycle with intelligent testing, deployment strategies, and rollback capabilities.",
+    "problemStatement": "Manual deployment processes are error-prone and slow. Teams need intelligent automation that can make deployment decisions based on metrics.",
+    "image": "/projects/devops-suite.jpg",
+    "category": ["DevOps", "Cloud"],
+    "techStack": ["React", "Go", "Kubernetes", "ArgoCD", "Prometheus", "Grafana", "GitHub Actions", "Terraform"],
+    "features": [
+      "Automated CI/CD pipeline generation",
+      "Intelligent deployment strategies (blue-green, canary)",
+      "Automated testing orchestration",
+      "Infrastructure as Code management",
+      "Real-time deployment monitoring",
+      "Automated rollback on failure",
+      "Multi-environment management"
+    ],
+    "challenges": [
+      "Implementing reliable automated rollback mechanisms",
+      "Integrating with various source control and deployment platforms",
+      "Ensuring zero-downtime deployments"
+    ],
+    "futureImprovements": [
+      "AI-powered deployment risk assessment",
+      "Predictive scaling",
+      "Advanced chaos engineering integration"
+    ],
+    "status": "Production",
+    "type": "Team",
+    "githubUrl": "",
+    "liveUrl": "",
+    "deployment": "Self-hosted Kubernetes",
+    "architectureDiagram": "/architecture/devops-suite.png"
+  },
+  {
+    "id": 6,
+    "name": "Smart Home IoT Dashboard",
+    "shortDescription": "Unified control center for IoT devices with AI automation",
+    "description": "Comprehensive IoT platform for managing smart home devices with machine learning-based automation and energy optimization.",
+    "problemStatement": "Smart home ecosystems are fragmented across different vendors. Users need a unified platform with intelligent automation capabilities.",
+    "image": "/projects/iot-dashboard.jpg",
+    "category": ["Web Development", "AI/ML"],
+    "techStack": ["React Native", "Node.js", "MQTT", "InfluxDB", "TensorFlow Lite", "Firebase", "Docker"],
+    "features": [
+      "Unified device control interface",
+      "ML-based usage pattern recognition",
+      "Automated routines and scenes",
+      "Energy consumption analytics",
+      "Voice control integration",
+      "Security monitoring",
+      "Mobile and web applications"
+    ],
+    "challenges": [
+      "Supporting diverse IoT protocols",
+      "Ensuring low-latency device control",
+      "Implementing secure device authentication"
+    ],
+    "futureImprovements": [
+      "Predictive maintenance alerts",
+      "Advanced energy optimization algorithms",
+      "Integration with more IoT platforms"
+    ],
+    "status": "In Progress",
+    "type": "Individual",
+    "githubUrl": "",
+    "liveUrl": "",
+    "deployment": "Firebase Hosting",
+    "architectureDiagram": "/architecture/iot-dashboard.png"
+  }
+]
