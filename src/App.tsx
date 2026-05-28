@@ -8,7 +8,6 @@ import About from './sections/About';
 import Skills from './sections/Skills';
 import Certifications from './sections/Certifications';
 import Projects from './sections/Projects';
-import Experience from './sections/Experience';
 import Education from './sections/Education';
 import CodingProfiles from './sections/CodingProfiles';
 import Achievements from './sections/Achievements';
