@@ -109,7 +109,7 @@ const Hero: React.FC = () => {
                 href={personalInfo.resumeUrl}
                 icon={<FaDownload />}
               >
-                Download Resume
+                View Resume
               </Button>
               <Button
                 variant="outline"
