@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
-import { FaGithub, FaLinkedin, FaEnvelope, FaDownload } from 'react-icons/fa';
+import { FaGithub, FaLinkedin, FaEnvelope, FaDownload,FaArrowRight } from 'react-icons/fa';
 import { SiLeetcode } from 'react-icons/si';
 import Button from '../components/common/Button';
 import personalInfo from '../data/personalInfo.json';
@@ -107,7 +107,7 @@ const Hero: React.FC = () => {
                 variant="primary"
                 size="lg"
                 href={personalInfo.resumeUrl}
-                icon={<FaDownload />}
+                icon={<FaArrowRight />}
               >
                 View Resume
               </Button>
