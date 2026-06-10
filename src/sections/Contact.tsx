@@ -47,7 +47,7 @@ const Contact: React.FC = () => {
     console.log('Form submitted:', formData);
 
     alert(
-      'Thank you for your message! This is a demo - please connect via email or social media.'
+      'Thank you for your message! I will be in touch soon!'
     );
 
     setFormData({
