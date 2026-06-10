@@ -339,7 +339,7 @@ const Contact: React.FC = () => {
 
                 {/* Demo Note */}
                 <p className="text-xs text-gray-500 dark:text-gray-500 text-center italic">
-                  Note: Form submission is currently in demo
+                  Note: Form submission is currently in static page
                   mode
                 </p>
               </form>
