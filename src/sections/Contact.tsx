@@ -46,10 +46,9 @@ const Contact: React.FC = () => {
 
     console.log('Form submitted:', formData);
 
-    alert(
-      'Thank you for your message! I will be in touch soon!'
-    );
-
+  alert(
+  'Thank you for your interest! Feel free to contact me using the email, phone number, or LinkedIn profile listed on this page.'
+);
     setFormData({
       name: '',
       email: '',
